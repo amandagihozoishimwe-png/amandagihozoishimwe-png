@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/amandagihozoishimwe-png">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Greetings%20.%20I%20am%20%20ISHIMWE%20GIHOZO%20AMANDA" alt="Greetings . I am  ISHIMWE GIHOZO AMANDA" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=10&height=90&width=1200&text=Greetings%20.%20I%20am%20%20ISHIMWE%20GIHOZO%20AMANDA" alt="Greetings . I am  ISHIMWE GIHOZO AMANDA" />
   </a>
 </p>
 
